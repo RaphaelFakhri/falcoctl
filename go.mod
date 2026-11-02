@@ -27,7 +27,7 @@ require (
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/sigstore/cosign/v3 v3.0.6
 	github.com/sigstore/sigstore v1.11.1
-	github.com/sigstore/sigstore/pkg/signature/kms/aws v1.10.10
+	github.com/sigstore/sigstore/pkg/signature/kms/aws v1.11.1
 	github.com/sigstore/sigstore/pkg/signature/kms/azure v1.10.10
 	github.com/sigstore/sigstore/pkg/signature/kms/gcp v1.10.10
 	github.com/sigstore/sigstore/pkg/signature/kms/hashivault v1.11.1
@@ -111,7 +111,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.11.8 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.14.7 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.20.7 // indirect
-	github.com/aws/aws-sdk-go-v2/service/kms v1.57.1 // indirect
+	github.com/aws/aws-sdk-go-v2/service/kms v1.61.4 // indirect
 	github.com/aws/aws-sdk-go-v2/service/signin v1.10.5 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sso v1.38.5 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.43.5 // indirect
